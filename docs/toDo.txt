@@ -1,0 +1,4 @@
+modificar la lógica de pagar para que se acumulen los precios de cada item del menú, además agregar un atributo de precio al menuItem
+llevar el console.log de atender a pagar (cliente pagar)
+modificar los console.log de prepararPedido (son dos y no se ven tan bien)
+Agregar entre cliente y cliente un espacio -> console.log()

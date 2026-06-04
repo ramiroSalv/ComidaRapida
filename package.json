@@ -1,0 +1,19 @@
+{
+  "name": "comidarapida",
+  "description": "",
+  "main": "Main.js",
+  "type": "module",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "compile": "tsc Main.ts",
+    "start": "node Main.js",
+    "dev": "npm run compile && npm run start"
+  },
+  "devDependencies": {
+    "typescript": "^6.0.3"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
